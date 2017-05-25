@@ -23,4 +23,5 @@ compile 'com.github.icuihai:RatingBarView:1.0'
                 选择后监听
             }
         });
-        ratingBarView.setStar(2); //设置星星
+        ratingBarView.setStar(2); //设置星
+![image](https://github.com/icuihai/RatingView/raw/master/img/star.png)
