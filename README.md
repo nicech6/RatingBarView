@@ -24,4 +24,4 @@ compile 'com.github.icuihai:RatingBarView:1.0'
             }
         });
         ratingBarView.setStar(2); //设置星
-![image](https://github.com/icuihai/RatingView/raw/master/img/star.png)
+![image](https://github.com/icuihai/RatingBarView/raw/master/img/star.png)
